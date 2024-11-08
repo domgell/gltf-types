@@ -22,7 +22,8 @@
     "noUnusedParameters": false,
     "noFallthroughCasesInSwitch": true,
     "declaration": true,
-    "accessor-pairs": [ "error", { "setWithoutGet": true, "getWithoutSet": true }]
+    "accessor-pairs": [ "error", { "setWithoutGet": true, "getWithoutSet": true }],
+
   },
   "include": [
     "src",

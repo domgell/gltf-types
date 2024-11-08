@@ -1,1 +1,1 @@
-export * from "./gltf"
+export type * from "./types.d.ts";
